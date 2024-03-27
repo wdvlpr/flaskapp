@@ -95,4 +95,4 @@ Reinicie o servidor Apache executando o seguinte comando:
 
 Agora acesse:
 
-http://localhost:8000/
+http://ip-do-servidor:8000/
